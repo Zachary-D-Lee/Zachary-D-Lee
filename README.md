@@ -21,11 +21,10 @@ A multi-model AI system built on structured, modular architecture:
 Focused on identity consistency, prompt integrity, and safe, truthful responses. 
 
 ## 🛠 Tech Stack 
-
 - Python
 - HTML / CSS
 - JavaScript (learning)
-- WSL / Linux (learning)
+- Linux (learning)
 
 ## 📈 Goals
 

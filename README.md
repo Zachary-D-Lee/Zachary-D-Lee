@@ -8,7 +8,7 @@ I am working on **Vega**, a multi-model AI system designed around identity groun
 - Python development and system design
 - Loader and prompt architecture for Vega
 - Frontend fundamentals (HTML, CSS, JavaScript)
-- WSL / Linux environment setup
+- Linux environment setup
 
 ## 🌌 Vega Architecture (Constellation AI)
 A multi-model AI system built on structured, modular architecture:

@@ -1,7 +1,7 @@
 # Hello 👋 I am Zachary Lee
 
 ## 🧠 About Me
-I am an AI focused developer currently learning and building in the wild. 
+I am a backend and AI focused developer currently learning and building in the wild. 
 I am working on **Vega**, a multi-model AI system designed around identity grounding, modular architecture, and safe, structured reasoning. 
 
 ## 🚀Currently Working On

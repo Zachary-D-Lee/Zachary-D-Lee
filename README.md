@@ -13,8 +13,8 @@ I am working on **Vega**, a multi-model AI system designed around identity groun
 ## 🌌 Vega Architecture (Constellation AI)
 A multi-model AI system built on structured, modular architecture:
 
-- Reptillian Gate -> classification & safety
-- Mammalian (heart-brain) -> tone & basic task handling
+- Immune System -> classification, safety, output verification
+- Voice -> tone & basic task handling
 - Neocortex -> higher-order, multi-step reasoning
 - Kernel -> orchestration layer
 
